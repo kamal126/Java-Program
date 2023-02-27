@@ -1,3 +1,3 @@
 # Java-Program
 Practice for Placement &amp; Problem Solving
-# Copyright by: Kamal Chandra
+# Copyright by: @Kamal_Chandra_Official
